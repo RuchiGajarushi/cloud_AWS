@@ -1,0 +1,36 @@
+1.What is cloud Computing.
+Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software.
+Cloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased productivity, speed and efficiency, performance, and security.
+Cloud computing is named as such because the information being accessed is found remotely in the cloud or a virtual space. Companies that provide cloud services enable users to store files and applications on remote servers and then access all the data via the Internet. This means the user is not required to be in a specific place to gain access to it, allowing the user to work remotely.
+
+2.What is type of cloud conmputing.
+There are 3 different types of cloud computing. - 1.Public cloud, 2.private cloud, 3.Hybrid cloud
+
+Public Cloud
+Some public cloud examples include those offered by Amazon, Microsoft, or Google. These companies provide both services and infrastructure, which are shared by all customers. Public clouds typically have massive amounts of available space, which translates into easy scalability. A public cloud is often recommended for software  
+The great advantage of a public cloud is its versatility and “pay as you go” structure that allows customers to provision more capacity on demand. On the downside, the essential infrastructure and operating system of the public cloud remain under full control of the cloud provider.
+
+Private Cloud
+Private clouds usually reside behind a firewall and are utilized by a single organization. A completely on-premises cloud may be the preferred solution for businesses with very tight regulatory requirements, though private clouds implemented through a colocation provider are gaining in popularity. Authorized users can access, utilize, and store data in the private cloud from anywhere, just like they could with a public cloud. The difference is that no one else can access or utilize those computing resources. Private cloud solutions offer both security and control, but these benefits come at a cost. The company that owns the cloud is responsible for both software and infrastructure, making this a less economical model than the public cloud.
+The additional control offered by a private cloud makes it easier to restrict access to valuable assets and ensures that a company will be able to move its data and applications where it wants, whenever it wants. Furthermore, since the private cloud isn’t controlled by an outside vendor, there’s no risk of sudden changes disrupting the company’s entire infrastructure.
+
+Hybrid Cloud
+Hybrid clouds combine public clouds with private clouds. They are designed to allow the two platforms to interact seamlessly, with data and applications moving seamlessly from one to the other. 
+The primary advantage of a hybrid cloud model is its ability to provide the scalable computing power of a public cloud with the security and control of a private cloud. Data can be stored safely behind the firewalls and encryption protocols of the private cloud, then moved securely into a public cloud environment when needed. 
+This is especially helpful in the age of big data analytics, when industries like healthcare must adhere to strict data privacy regulations while also using sophisticated algorithms powered by artificial intelligence (AI) to derive actionable insights from huge masses of unstructured data. 
+
+3.What is meant by ec2?
+
+An EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications on the Amazon Web Services (AWS) infrastructure. AWS is a comprehensive, evolving cloud computing platform; EC2 is a service that allows business subscribers to run application programs in the computing environment
+
+4.What is advantages of Cloude computing.
+	1.High speed
+	2.Automatic Software Integration
+	3.Reliability
+	4.Back-up and restore data
+	5.Mobility
+	6.Unlimited storage capacity
+
+
+
+
